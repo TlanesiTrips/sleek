@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome!
-featured-img: tlanesi.jpg
+featured-img: tlanesi
 mathjax: true
 ---
 
